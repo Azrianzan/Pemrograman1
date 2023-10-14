@@ -1,0 +1,17 @@
+nama = input("Nama                    : ")
+nim = input("NIM                     : ")
+paralel = input("Kelas Paralel           : ")
+ttl = input("Tempat/Tanggal Lahir    : ")
+alamat = input("Alamat                  : ")
+hobi = input("Hobby                   : ")
+nohp = input("No. HP                  : ")
+
+print("")
+
+print(f"Nama                    : {nama}")
+print(f"NIM                     : {nim}")
+print(f"Kelas Paralel           : {paralel}")
+print(f"Tempat/Tanggal Lahir    : {ttl}")
+print(f"Alamat                  : {alamat}")
+print(f"Hobby                   : {hobi}")
+print(f"No. HP                  : {nohp}")
